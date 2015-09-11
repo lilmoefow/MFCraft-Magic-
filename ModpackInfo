@@ -1,0 +1,826 @@
+
+=============================================================================
+
+Minecraft Coder Pack (mcp) Version 9.05
+Modding toolkit to decompile and deobfuscate the Minecraft client and server files.
+Credits: Made by the MCP team
+Website: http://mcp.ocean-labs.de/
+
+Forge Mod Loader (FML) Version 7.10.99.99
+The Forge Mod Loader provides the ability for systems to load mods from the file system. It also provides key capabilities for mods to be able to cooperate and provide a good modding environment. 
+Credits: Made possible with help from many people
+Authors: cpw, LexManos, Player
+Website: https://github.com/MinecraftForge/FML/wiki
+
+Minecraft Forge (Forge) Version 10.13.4.1448
+Minecraft Forge is a common open source API allowing a broad range of mods to work cooperatively together. It allows many mods to be created without them editing the main Minecraft code.
+Credits: Made possible with help from many people
+Authors: LexManos, Eloraam, Spacetoad
+Website: http://MinecraftForge.net
+
+AMCore (AM2-Preloader) Version 0.0.2
+Credits: Mithion, AlgorithmX2, Sunstrike
+Authors: Mithion, AlgorithmX2, Sunstrike
+Website: Not supplied
+
+AppleMilkCore (AppleMilkCore) Version 1.1.0
+This code is required by AppleMilkTeaMod.
+Authors: defeatedcrow
+Website: http://forum.minecraftuser.jp/viewtopic.php?f=13&t=17657
+
+CodeChicken Core (CodeChickenCore) Version 1.0.6.43
+Base common code for all chickenbones mods.
+Authors: ChickenBones
+Website: http://www.minecraftforum.net/topic/909223
+
+Not Enough Items (NotEnoughItems) Version 1.0.4.107
+Recipe Viewer, Inventory Manager, Item Spawner, Cheats and more.
+
+§cNo installed plugins.
+
+§bSupporters: EmuCraft Team, Victor Zimmer, lexi85, Ace_Trainer_Tullius, Bacon_Donut
+Credits: Alexandria - original idea
+Authors: ChickenBones
+Website: http://www.minecraftforum.net/topic/909223
+
+PotionExtensionCore (PotionExtensionCore) Version 1.7.10-1.1.0
+Potion Extension Core Mod
+Authors: A.K.
+Website: http://forum.minecraftuser.jp/viewtopic.php?f=13&t=6672
+
+Thaumic Tinkerer Core (ThaumicTinkerer-preloader) Version 0.1
+Credits: nekosune, Pixlepix, and all thanks to Vazkii
+Authors: nekosune, Pixlepix, Vazkii
+Website: Not supplied
+
+Witching Gadgets Core (WitchingGadgetsCore) Version 1.1.9
+Authors: BluSunrize
+Website: Not supplied
+
+OpenModsCore (OpenModsCore) Version 0.8
+This is where the magic happens
+Authors: Mikee, NeverCast, boq
+Website: http://openmods.info/
+
+CoFH ASM (<CoFH ASM>) Version 000
+CoFH ASM
+Website: Not supplied
+
+Threaded Lighting (mod_ThreadedLighting) Version 1.7.10-1.0
+A core mod which implements a threaded environment for world lighting updates. This fixes a lot of core issues associated with lighting updates.
+Credits: cafaxo
+Authors: Gilded Games
+Website: www.gilded-games.com/threaded-lighting/
+
+SanAndreasPs Manager Pack CORE edition (sapmanpack) Version 2.5.1
+A helper coremod which is needed for all my mods.
+Authors: SanAndreasP
+Website: http://www.minecraftforge.net/forum/index.php/topic,2828.0.html
+
+debug (debug) Version 1.0
+Website: Not supplied
+
+Gilded Games Utility (gilded-games-util) Version 1.7.10-1.1
+A module which supports several major systems that are used between different Gilded Games projects.
+Authors: Gilded Games
+Website: www.gilded-games.com/gilded-games-util/
+
+Mine & Blade Battlegear 2 - Bullseye (battlegear2) Version 1.0.8.1
+A WIP, open-source combat mod, focusing on groundbreaking features and balanced combat
+Credits: By nerd-boy & GotoLink, with help from coolAlias
+Authors: nerd-boy, GotoLink, coolAlias
+Website: http://www.curse.com/mc-mods/minecraft/mb-battlegear-2
+
+Zelda Sword Skills (zeldaswordskills) Version 2.2.8
+The ultimate Zelda mod, adding nearly everything from the Zelda series to Minecraft.
+Credits: Thanks to GotoLink for BG2-related support, and many others for their contributions
+Authors: coolAlias
+Website: http://www.minecraftforum.net/topic/2239063
+
+AnimationAPI (AnimationAPI) Version 1.7.10-1.2.4
+A supporting mod that allows modders to make animations more easily.
+Credits: Forge Team, MCP Team
+Authors: thehippomaster21
+Website: http://www.minecraftforum.net/topic/1850860-/
+
+Ars Magica 2 (arsmagica2) Version 1.4.0.008
+A look into what Minecraft could become if you add a splash of magic...
+Credits: Ars Magica is a trademark of Atlas Games, used with permission. Any spell names and other material adapted from the Ars Magica fantasy roleplaying game are used with permission. For more information, visit www.atlas-games.com.  Some textures created using brushes from www.obsidiandawn.com.  Icons used include Painterly Spell Packs 1 through 4, courtesy of J. W. Bjerk (eleazzaar) at opengameart.com.  Random Spell names courtesy of Steven Savage from seventhsanctum.com.
+Authors: Mithion, Zerodaimaru
+Website: Not supplied
+
+Damage Indicators (DamageIndicatorsMod) Version 3.2.3
+Displays the damage you inflict on creatures, as well as current health, name and potion effects.
+Website: http://www.minecraftforum.net/topic/1536685-
+
+bspkrsCore (bspkrsCore) Version 6.15
+Shared classes used in the mods maintained by bspkrs.
+Credits: Much of this code was originally part of DaftPVF's mods that I maintain.
+Authors: DaftPVF, bspkrs
+Website: http://www.minecraftforum.net/topic/1114612-/
+
+Treecapitator (Treecapitator) Version 2.0.4
+Allows you to chop down entire trees by breaking a single log.
+Credits: Original by DaftPVF; additional credit to Lunatrius, AtomicStryker, ScottKillen
+Authors: DaftPVF, bspkrs
+Website: http://www.minecraftforum.net/topic/1009577-/
+
+Aether II (aether) Version Alpha 1.7.10-1.2
+In development by Gilded Games, the Aether II is an extensive mod for Minecraft which implements a remarkable world in the skies. Adventure, danger, and mystery awaits in the depths of the Aether.
+Credits: Gilded Games, The Aether Team
+Authors: Brandon Pearce, Emile van Krieken, Oscar Payn, Hugo Payn, Brandon Potts, Brendan Freeman, Collin Soares, Kino, Jorge Quinones, Jon Lachney
+Website: http://www.AetherII.com
+
+Baubles (Baubles) Version 1.0.1.10
+Adding a touch of bling to Minecraft
+Credits: Special thanks to chicken_bones
+Website: http://www.minecraftforum.net/topic/2535073-baubles
+
+Thaumcraft (Thaumcraft) Version 4.2.3.5
+Adding a touch of magic to Minecraft
+Credits: Special thanks to CovertJaguar, Dan Scott, Lorc, bonemouse, Scott Killen, Rorax and chicken_bones
+Website: http://www.minecraftforum.net/topic/2011841-thaumcraft
+
+Aether Aspects (AetherAspects) Version 1.7.10-1.2
+Adds Thaumcraft aspects to the Aether.
+Authors: Brendan Freeman
+Website: Not supplied
+
+AgriCraft (AgriCraft) Version 1.4.0-beta-2
+Agricultural farming extended
+Credits: InfinityRaider
+Authors: InfinityRaider
+Website: http://minecraft.curseforge.com/mc-mods/225635-agricraft
+
+Ancient Warfare Core (AncientWarfare) Version 2.4.112-beta-MC1.7.10
+Ancient Warfare mod for Minecraft 1.7+
+Authors: shadowmage45
+Website: ancientwarfare.wikispaces.com
+
+CoFH Core (CoFHCore) Version 3.0.4B1
+Required for all CoFH Mods. Also provides some customization options for Minecraft.
+Credits: Team CoFH
+Authors: Team CoFH
+Website: http://www.teamcofh.com
+
+Ancient Warfare Automation (AncientWarfareAutomation) Version 2.4.112-beta-MC1.7.10
+Ancient Warfare Automation Module for Minecraft 1.7+
+Authors: shadowmage45
+Website: ancientwarfare.wikispaces.com
+
+Ancient Warfare NEI Plugin (AncientWarfareNEIPlugin) Version 2.4.112-beta-MC1.7.10
+Website: Not supplied
+
+Ancient Warfare NPCs (AncientWarfareNpc) Version 2.4.112-beta-MC1.7.10
+Ancient Warfare NPCs for Minecraft 1.7+
+Authors: shadowmage45
+Website: ancientwarfare.wikispaces.com
+
+Ancient Warfare Structures (AncientWarfareStructure) Version 2.4.112-beta-MC1.7.10
+Ancient Warfare Structures for Minecraft 1.7+
+Authors: shadowmage45
+Website: ancientwarfare.wikispaces.com
+
+Antique Atlas (antiqueatlas) Version 4.2.7-1.7.10
+Antique Atlas is a book that acts like a map featuring infinite scrolling, zoom and custom labeled markers. The map is generated around the player by calculating the average biome in each 16x16 chunk.
+Credits: Mod by Hunternif. Localizations by crafteverywhere, CapoFantasma97, Mazdallier.
+Website: http://www.minecraftforum.net/topic/2045745-164forge-antique-atlas-v10
+
+AppleCore (AppleCore) Version 1.1.0
+An API for modifying the food and hunger mechanics of Minecraft
+Authors: squeek
+Website: Not supplied
+
+Apple&Milk&Tea! (DCsAppleMilk) Version 1.7.10_2.8e
+Enjoy a leisurely tea time.
+Credits: defeatedcrow, RazzleberryFox, tsuteto, A.K., sfmiyuki, Mrkwtkr, Belgabor, zoejook8bq, TunkShif
+Authors: defeatedcrow
+Website: http://defeatedcrow.wiki.fc2.com/wiki/AppleMilkTea%20ver2
+
+NEIPluginForAMT (DCsNEIPluginAMT) Version 1.7.10_1.0a
+Website: Not supplied
+
+Alternate Terrain Generation (ATG) Version 1.7.10-0.12.0
+ATG provides an alternative to vanilla terrain generation.
+Credits: Written by Alex 'TTFTCUTS' Spinks. Special thanks to ScottKillen for help during early development.
+Website: http://www.minecraftforum.net/topic/1932156-
+
+Aura Cascade (aura) Version unspecified
+Website: Not supplied
+
+Waila (Waila) Version 1.5.10
+Website: Not supplied
+
+Automagy (Automagy) Version 1.7.10-0.26.3
+An addon for Thaumcraft 4 focused on providing flexible and interesting tools for automation and logistics, plus a few other fun thaumic gadgets.
+Credits: Special thanks and much credit go to Azanor.
+Authors: Tuhljin (programming, art), Draanor (art)
+Website: Not supplied
+
+Baby Animals Model Swapper (babyanimals) Version 1.7.10-2
+Replaces vanilla baby models with models created for the original Baby Animals Mod.
+Credits: cocoavalley for releasing the source code
+Authors: MrIbby, cocoavalley
+Website: http://www.minecraftforum.net/forums/mapping-and-modding/2364027
+
+Better Boat (betterboat) Version 1.7.10-1.0.0
+This mod fixes several issues with vanilla boats.
+Credits: Vazkii, for making me do this mod :P
+Authors: SanAndreasP
+Website: Not supplied
+
+Better Foliage (BetterFoliage) Version 1.0.13
+Leafier leaves and grassier grass
+Authors: octarine-noise (code), Meringue (textures)
+Website: Not supplied
+
+BiblioCraft (BiblioCraft) Version 1.10.6
+BiblioCraft adds fancy storage containers including bookcases, armor stands, potion shelves, regular shelves, tool racks, glass weapon cases, wooden desks and wooden chest labels and now add machines, redstone interactions, and eyeware, fancy lamps and golden lanterns. Also Tables, enchanted plates, map frames, and seats!
+Authors: Joseph 'Nuchaz' Sinclair
+Website: http://www.bibliocraftmod.com
+
+ExtrabiomesXL (ExtrabiomesXL) Version 3.16.3
+ExtrabiomesXL adds new aesthetic content that greatly enhances Minecraft's landscapes and ploration.
+Credits: Concept and original mod created by MisterFiber. Some artwork courtesy of: bonemouse and Delocuro. Code contributors: asie, Eloraam, mistaqur, SirSengir, bolte-17, TDWP_FTW, ExterminatorJeff. Additional help: acmfan
+Authors: MisterFiber, ScottKillen, JLBShecky, allaryin, bspkrs
+Website: http://www.minecraftforum.net/topic/1090288-
+
+BiblioWoods ExtraBiomesXL Edition (BiblioWoodsEBXL) Version 1.4
+Adds support for 9 varietys of wood from ExtraBiomesXL for 8 of the wooden block in BiblioCraft.
+Credits: Annysia, Scott Killian and the entire ExtraBiomesXL team for creating ExtraBiomesXL and the origanal textures I maniplated to fit BiblioCraft Blocks
+Website: http://www.bibliocraftmod.com
+
+Hardcore Ender Expansion (HardcoreEnderExpansion) Version 1.8.3
+Hardcore Ender Expansion offers unique, new content across the End. The dragon became a truly challenging boss with a great reward, but the adventure doesn't end there.
+
+The End is no longer just an island. Go investigate unique ores, battle new mobs, travel to new biomes, the death awaits you!
+
+§nFind me on Twitter:§r https://twitter.com/chylexMC
+Authors: Programmed by chylex | http://hee.chylex.com/authors
+Website: http://hee.chylex.com
+
+Mantle (Mantle) Version 0.3.2a
+Shared code for Slime Knights mods and others.
+Website: https://github.com/SlimeKnights/Mantle
+
+Natura (Natura) Version 1.7.10-96.b419f49
+Heyo, Redwood trees! Chop them all day long!
+Credits: Samtrion, tterrag
+Website: www.minecraftforum.net/topic/1753754-natura/
+
+Forestry for Minecraft (Forestry) Version 3.6.3.20
+Trees, bees and more.
+Credits: mistaqur, Binnie
+Authors: SirSengir
+Website: http://forestry.sengir.net/
+
+BiblioWoods Forestry Edition (BiblioWoodsForestry) Version 1.7
+Adds support for 24 varietys of wood from Forestry for 8 of the wooden block in BiblioCraft.
+Credits: SirSengir for Forestry and the origanal textures I maniplated to fit BiblioCraft Blocks
+Website: http://www.bibliocraftmod.com
+
+BiblioWoods Natura Edition (BiblioWoodsNatura) Version 1.5
+Adds support for 13 varietys of wood from Natura for 8 of the wooden block in BiblioCraft.
+Credits: mDiyo for creating Natura and the origanal textures I maniplated to fit BiblioCraft Blocks
+Website: http://www.bibliocraftmod.com
+
+Binnie Core (BinnieCore) Version 2.0-pre14
+Base mod for Binnie's Mods, with lots of common code.
+Credits: Thanks to Sengir, MysteriousAges, Xizzzy and many others
+Authors: Binnie
+Website: http://minecraft.curseforge.com/mc-mods/223525-binnies-mods
+
+Botany (Botany) Version 2.0-pre14
+Adds breedable flowers.
+Credits: Thanks to Sengir, MysteriousAges, Xizzzy and many others
+Authors: Binnie
+Website: http://minecraft.curseforge.com/mc-mods/223525-binnies-mods
+
+Extra Bees (ExtraBees) Version 2.0-pre14
+Adds new bees and products to expand the bee breeding in Forestry.
+Credits: Thanks to Sengir, MysteriousAges, Xizzzy and many others
+Authors: Binnie
+Website: http://minecraft.curseforge.com/mc-mods/223525-binnies-mods
+
+Extra Trees (ExtraTrees) Version 2.0-pre14
+Adds new trees, aesthetic blocks and alcohol production.
+Credits: Thanks to Sengir, MysteriousAges, Xizzzy and many others
+Authors: Binnie
+Website: http://minecraft.curseforge.com/mc-mods/223525-binnies-mods
+
+Genetics (Genetics) Version 2.0-pre14
+Adds genetic manipulation for bees, trees, butterflies and flowers.
+Credits: Thanks to Sengir, MysteriousAges, Xizzzy and many others
+Authors: Binnie
+Website: http://minecraft.curseforge.com/mc-mods/223525-binnies-mods
+
+Blood Magic: Alchemical Wizardry (AWWayofTime) Version v1.3.0Beta(1.7.10)
+Rituals, spells, and more!
+Authors: WayofTime
+Website: http://www.minecraftforum.net/topic/1899223-
+
+Blood Arsenal (BloodArsenal) Version 1.1-14
+Blood-themed tools, weapons, armor and much more!
+Credits: WayofTime
+Website: Not supplied
+
+QmunityLib (qmunitylib) Version 1.7.10-0.1.114
+Website: Not supplied
+
+Blue Power (bluepower) Version 1.7.10-0.2.962
+Work in progress mod aiming to reintroduce some missing 'glue' blocks from prior versions of modded Minecraft
+Credits: Thanks to all the contributors for their contributions and the community for the support
+Authors: Quetzi, Zness, MineMaarten, K4Unl, Amadornes
+Website: http://minecraft.curseforge.com/mc-mods/223099-blue-power
+
+Botania (Botania) Version r1.7-221
+Botania is a mod that adds nature magic to Minecraft.
+Credits: Azanor, dylan4ever, Flaxbeard, Futureazoo, wiiv, Rorax, Lorc, Adubbz, WTFG33ks, Auric245524, MegaManki, Kain Vinosec, Kihira, mDiyo, Mikeemoo, ChickenBones, PowerCrystals, cpw
+Authors: Vazkii
+Website: http://www.botaniamod.net
+
+Carpenter's Blocks (CarpentersBlocks) Version 3.3.7
+Adds slopes and a variety of vanilla-inspired blocks that support covers, side covers, overlays, dyes and chiseled patterns.
+Authors: Mineshopper
+Website: www.carpentersblocks.com
+
+Railcraft (Railcraft) Version 9.7.0.0
+Redefine your rails
+Credits: Created by CovertJaguar
+Website: http://railcraft.info/
+
+The Twilight Forest (TwilightForest) Version 2.3.7
+An enchanted forest dimension.
+Credits: By Benimatic
+Website: http://www.minecraftforum.net/topic/561673-
+
+Forge Multipart (ForgeMultipart) Version 1.2.0.345
+Open source library for facilitation of multiple functional parts in the one block space.
+Website: https://github.com/Chicken-Bones/ForgeMultipart
+
+Chisel (chisel) Version 2.9.0.3
+A mod that adds in many fancy blocks for decoration, which are crafted utilising the Chisel.
+Credits: AUTOMATIC_MAIDEN for the original mod,
+asie for porting to 1.7.2,
+and Pokenfenn/Cricket for continuing it in 1.7.
+This mod uses textures from the Painterly Pack: http://painterlypack.net/.
+Authors: tterrag, Drullkus, minecreatr
+Website: http://www.minecraftforum.net/forums/thread/1294901
+
+D3Core (D3Core) Version 1.1.0.31
+DoubleDoor Development Core
+Authors: Dries007, Doubledoor team
+Website: https://github.com/DoubleDoorDevelopment/D3Core
+
+menagerie (menagerie) Version 1.0
+Website: Not supplied
+
+PTRModelLib (PTRModelLib) Version 1.0.0
+Website: Not supplied
+
+Decocraft (props) Version 2.1.1_1.7.10
+Adds 500+ models to decorate your Minecraft world.
+Authors: RazzleberryFox
+Website: http://minecraft.curseforge.com/mc-mods/79616-decocraft2
+
+DWD (dwd) Version 3u2y0rt4eur32yr7g9320ruy37r75982307498367482yrf84yr6287409984702389190e2hdnxc
+Website: Not supplied
+
+EnderCore (endercore) Version 1.7.10-0.1.0.23_beta
+Library mod used by EnderIO, EnderZoo, and others
+Authors: tterrag, CrazyPants
+Website: http://enderio.com
+
+Et Futurum (etfuturum) Version 1.4.2
+A mod dedicated to bring future features to 1.7.10
+Authors: ganymedes01
+Website: Not supplied
+
+Thermal Foundation (ThermalFoundation) Version 1.2.0
+The foundation of a Thermally enhanced world!
+Credits: Team CoFH
+Authors: Team CoFH
+Website: http://www.teamcofh.com
+
+Extra Utilities (ExtraUtilities) Version 1.2.11
+Authors: RWTema
+Website: Not supplied
+
+FastCraft (FastCraft) Version 1.21
+FastCraft optimizes MineCraft in various ways, visit the homepage for further details and support.
+Authors: Player
+Website: http://forum.industrial-craft.net/index.php?page=Thread&threadID=10820
+
+Finndus Fillies (FinndusFillies) Version 2.1.0 build 12
+Provides horsemeat, cleverly disguised as beef. Also, glue (slime balls).
+Credits: Various people because they asked for it :)
+Authors: Myrathi
+Website: http://smarturl.it/FinndusFillies
+
+Thaumic Tinkerer (ThaumicTinkerer) Version 2.5-1.7.10-508
+An addon to Thaumcraft 4, implementing new content. This mod is a spiritual successor to Elemental Tinkerer. Researches that come from this mod are prefixed by [TT].
+Credits: Azanor, TheAtlanticCraft, MartysGames, TheWhiteWolves, mDiyo, theFlaxbeard.
+Website: minecraftforum.net/topic/1813058-
+
+Forbidden Magic (ForbiddenMagic) Version 1.7.10-0.57
+Forbidden Magic is an addon to add many dark-themed things to Thaumcraft.
+Credits: Azanor, joshiejack, Killajoke, LycaonX, Nieue, Succubism, Vazkii, Dylan4ever, Nekosune, Kihira
+Authors: SpitefulFox
+Website: http://www.minecraftforum.net/topic/2305054-/
+
+FoxLib (foxlib) Version 1.7.10-0.7.0
+Website: Not supplied
+
+INpureCore (inpure|core) Version 1.7.10R1.0.0B9
+Website: Not supplied
+
+Inventory Tweaks (inventorytweaks) Version 1.59-dev-152-cf6e263
+Tweaks to inventory handling for ease of use, including sorting and automatic replacement of broken tools or exhausted stacks of items.
+Credits: By Jimeo Wan, updated for Forge by Kobata
+Website: https://github.com/Kobata/inventory-tweaks
+
+Iron Chest (IronChest) Version 6.0.60 build 741
+New chests with larger sizes, with in-place upgrade items.
+The feature chest is the crystal chest, which is transparent - some inventory contents are visible without opening the chest
+Credits: By cpw, based on an original idea by Lishid
+Website: http://www.minecraftforum.net/topic/981855-
+
+JABBA (JABBA) Version 1.2.1a_1.7.10
+Moar barrels
+
+The Jabba team would like to thank the Academy for this award... oh wait... *cough* erm... Credits to neptunepink for the original barrel idea, Q and his community for the name, special thanks to skyboy for rendering assistance and the DSU, and the many people whom have made modded MC such an awesome thing to be a part of.
+Credits: [see description]
+Authors: ProfMobius, Taelnia
+Website: http://mobiusstrip.eu/wiki/Jabba
+
+LomLib (LomLib) Version 3.2.0
+Shared library mod required by several of Lomeli's Mods.
+Authors: Lomeli12
+Website: http://www.lomeli12.net/
+
+Magic Bees (MagicBees) Version 1.7.10-2.3.5
+Magic themed bee expansion for Forestry. TC4, Botania, EE3, AM 2, TE 3
+Credits: SirSengir, Azanor, Binnie & the Forestry Dev peeps
+Website: http://bit.ly/XFDvLY
+
+Magic Cookies, something yummy (MagicCookie) Version 1.0.7.1
+This mod gives expansion in your work as a thaumaturge, allow you to continue on your path of thaumaturgy or to venture new paths to further your knowledge.
+Credits: Azanor for making thaumcraft, Allowing me to use his golem code to add new golems. The forge and fml guys for making such a great api, _Tydin_ for graphics, Anlyf for textures, Kartosael for builds and structures
+Authors: Tschallacka
+Website: http://thaumcraft.duckdns.org/forum
+
+Magnanimous Tools (magnanimoustools) Version 1.7.10-1.0.8
+High tier tools obtained through natural explorative means, with an experienced twist
+Credits: VapourDrive
+Website: Not supplied
+
+MalisisCore (malisiscore) Version 1.7.10-0.12.9
+MalisisCore is a framework dedicated to simplify many processes required during a mod development.
+Authors: Ordinastie, PaleoCrafter
+Website: http://github.com/Ordinastie/MalisisCore
+
+Malisis' Doors (malisisdoors) Version 1.7.10-1.9.5
+Better doors!
+Website: http://github.com/ordinastie
+
+MineTweaker 3 (MineTweaker3) Version 1.7.10-3.0.9C
+Customize your minecraft experience!
+Credits: Created By Stan Hebben
+Authors: Stan Hebben
+Website: http://minetweaker3.powerofbytes.com
+
+MmmMmmMmmMmm (testdummy) Version 1.6
+Provides a test dummy that can be placed in the world. Punch it, kick it, slice it, push it, pop it, twist it,....
+Credits: pillbox and XCompwiz for the idea. Also TTFTCUTS.
+Authors: boni
+Website: Not supplied
+
+Mod Tweaker 2 (modtweaker2) Version 0.9.3
+ModTweaker is an addon for MineTweaker 3.
+Credits: joshie and Spitefulfox for writing ModTweaker, yulife for documentation.
+Authors: Jaredlll08
+Website: Not supplied
+
+More Chisels (morechisels) Version 1.7.10-1.0-25
+More chisels for Chisel 2
+Credits: Cricket for maintaining Chisel 2. tterrag for making it easy to build from.
+Authors: TehNut
+Website: http://tehnut.info/
+
+§9MrCrayfish's Furniture Mod (cfm) Version §83.4.7
+§bAdds over 40 unique pieces of furniture to the game!
+Authors: §8MrCrayfish
+Website: §8http://www.mrcrayfish.com/
+
+Mystcraft (Mystcraft) Version 0.12.3.00
+Mystcraft brings elements from the Myst series of games and books to Minecraft, as well as allowing players to actually write and travel to their own Ages.
+Website: http://xcompwiz.com
+
+NEI Addons (NEIAddons) Version 1.12.12.37
+Loaded Addons:
+- Developer Tools: Inactive
+- Botany: Active
+- Forestry: Active
+- Crafting Tables: Active
+Authors: bdew
+Website: bdew.net/neiaddons
+
+NEI Addons: Developer Tools (NEIAddons|Developer) Version 1.12.12.37
+Website: Not supplied
+
+NEI Addons: Applied Energistics 2 (NEIAddons|AppEng) Version 1.12.12.37
+Website: Not supplied
+
+NEI Addons: Botany (NEIAddons|Botany) Version 1.12.12.37
+Website: Not supplied
+
+NEI Addons: Forestry (NEIAddons|Forestry) Version 1.12.12.37
+Authors: bdew
+Website: http://bdew.net/neiaddons/
+
+NEI Addons: Crafting Tables (NEIAddons|CraftingTables) Version 1.12.12.37
+Authors: bdew
+Website: http://bdew.net/neiaddons/
+
+NEI Addons: Ex Nihilo (NEIAddons|ExNihilo) Version 1.12.12.37
+Authors: bdew
+Website: http://bdew.net/neiaddons/
+
+NEI Integration (neiintegration) Version 1.0.12
+NEI handlers for all of the mods, one at a time.
+Credits: ChickenBones, mistaqur, iTitus, and anyone else who helped making the mod, directly or indirectly
+Authors: tonius11
+Website: Not supplied
+
+Nether Ores (NetherOres) Version 2.3.1RC1
+Introduces mineable yet dangerous ores to the Nether
+Authors: PowerCrystals, TehKrush, AtomicStryker, skyboy026
+Website: http://minecraft.curseforge.com/mc-mods/netherores/
+
+NotEnoughKeys (notenoughkeys) Version 1.7.10-2.0.0b41
+Upddated Version of Okushama's NotEnoughKeys. Sorts the Controls gui system and adds optional modifiers (SHIFT, CTRL, ALT) to keys.
+Credits: The Forge and FML guys, for making this example
+Authors: dmodoomsirius, okushama, Parker8283, TheTemportalist
+Website: http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2277165-notenoughkeys
+
+OpenMods (OpenMods) Version 0.8
+Boring stuff for all that silly Open* mods
+Website: http://openmods.info/
+
+OpenBlocks (OpenBlocks) Version 1.4.4
+All the things you never thought you will ever need
+Website: http://www.openperipheral.info
+
+Pam's HarvestCraft (harvestcraft) Version 1.7.10j
+An absolutely huge farming and food mod.
+Authors: Pamela Collins
+Website: http://minecraft.curseforge.com/members/MatrexsVigil/projects
+
+ProjectE (ProjectE) Version 1.7.10-PE1.8.0
+A complete rewrite of EE2 for modern Minecraft versions.
+Credits: Thanks to:
+x3n0ph0b3 - EE2 creator. Allowed use of EE2 assets.
+MidnightLightning - EE2 GUI Textures.
+Magic Banana - Original ProjectE textures.
+MaPePeR - Assistant developer.
+Williewillus - Assistant developer.
+Authors: sinkillerj, Moze_Intel
+Website: http://minecraft.curseforge.com/mc-mods/226410-projecte
+
+ProjectE Aether Addon (peaether) Version 1.7.10-PEA1.0.0
+Adds new content that bridges ProjectE and Aether 2.
+Authors: sinkillerj
+Website: http://minecraft.curseforge.com/mc-mods/234981-projecte-aether-addon
+
+Pig Manure (PigManure) Version 1.0.1
+Adding manure, from pigs.
+Credits: skidznet, for the icons
+Authors: airbreather, skidznet
+Website: https://github.com/airbreather/pig-manure-mod
+
+Primitive Mobs (primitivemobs) Version v 1.0
+A mod with familiar mobs.
+Credits: KodaichiZero for SpiderFamily, KodasCreepers and BrainSlime. Gibea for TravelingMerchant Model. TehPhailed for Blazing Juggernaut Model.
+Authors: Daveyx0
+Website: Not supplied
+
+Quadrum (Quadrum) Version 1.7.10-1.0.0.B8
+Quadrum
+Website: Not supplied
+
+Random Things (RandomThings) Version 2.2.4
+Random Things packed into one Mod.
+Credits: Lumien (Mod);Drakeflame13 (Soul Texture)
+Authors: Lumien
+Website: http://minecraft.curseforge.com/mc-mods/59816-random-things
+
+Refined Relocation (RefinedRelocation) Version 1.0.8b
+Filter, sort and relocate!
+Credits: Dynious: founder, developer; dmillerw: developer; All other contributors!
+Authors: Dynious, dmillerw
+Website: Not supplied
+
+libsandstone (libsandstone) Version 1.0.0
+Sandstone, the foundation for pyramids. Another modding framework.
+Authors: x3n0ph0b3, TheMike
+Website: Not supplied
+
+Reliquary (xreliquary) Version 1.2
+Two words: magical swag. Oh, and a gun.
+Credits: Originally made by x3n0ph0b3, now maintained by TheMike.
+Authors: x3n0ph0b3, TheMike
+Website: Not supplied
+
+Resource Loader (ResourceLoader) Version 1.2
+Allows mod pack creators / users to add their own custom textures to minecrafts resources without making a resource pack.
+Authors: lumien
+Website: Not supplied
+
+Roguelike Dungeons (Roguelike) Version 1.3.6.3
+Adds randomized dungeons to the world
+Authors: Greymerk
+Website: dungeons.homelinux.org
+
+The SecretRoomsMod (secretroomsmod) Version 1.7.10-4.7.1.413
+This mod adds a variety of cool blocks that camouflage themselves to the surrounding world. All of these blocks have extremely useful functions that allow you to simply hide your diamonds, or punish all who dare try to get to them. Hidden doors, pressure plates, hidden levers and more!
+Credits: Authored by AbrarSyed, based on an original idea by iampeppino. Help provided by alexbegt.
+Website: http://www.minecraftforum.net/topic/546192-
+
+Shut The F Up (ShutTheFUp) Version 1.0.0
+Background music is annoying.
+Authors: Six-One-Three
+Website: Not supplied
+
+Similsax Transtructors (SimilsaxTranstructors) Version 1.7.10.11
+Now you can place blocks *behind* the block you click on!
+Credits: Thanks to all my fans and sponsors.
+Authors: Vorquel
+Website: Not supplied
+
+Stacks on Stacks! (StacksOnStacks) Version 1.7.10-0.9.4
+A mod that adds ingot piles like those of Terrafirmacraft
+Credits: Madxmike, DeathDragon58, Xaeryne
+Authors: PRIMETOXINZ
+Website: Not supplied
+
+Steve's Workshop (StevesWorkshop) Version 0.5.1
+Adds a modular production table for crafting and smelting
+Credits: Thanks to CyanideX for the block and item icons
+Authors: Vswe
+Website: Not supplied
+
+Storage Drawers (StorageDrawers) Version 1.7.10-1.6.0
+Multi-drawer storage blocks for quick storage and retrieval.
+Credits: By jaquadro
+Website: http://www.jaquadro.com/
+
+Storage Drawers: Forestry Pack (StorageDrawersForestry) Version 1.7.10-1.0.3
+Adds additional wood styles from the Forestry mod.
+Credits: By jaquadro
+Authors: jaquadro
+Website: http://www.jaquadro.com/
+
+Storage Drawers: Misc Pack (StorageDrawersMisc) Version 1.7.10-1.0.0
+Adds additional wood styles from various mods including ExtraBiomesXL, Highlands, Thaumcraft, and Witchery.
+Credits: By jaquadro
+Authors: jaquadro
+Website: http://www.jaquadro.com/
+
+Storage Drawers: Natura Pack (StorageDrawersNatura) Version 1.7.10-1.0.3
+Adds additional wood styles from the Natura mod.
+Credits: By jaquadro
+Authors: jaquadro
+Website: http://www.jaquadro.com/
+
+Tails (Tails) Version 1.7.10-1.4.1a
+For all your taily needs
+Authors: Kihira
+Website: https://github.com/kihira
+
+Thaumcraft NEI Plugin (thaumcraftneiplugin) Version 1.7.10-1.7a
+NEI Integration for Thaumcraft 4.
+Credits: To Fireball1725's stream for the idea.
+Authors: DjGiannuzz
+Website: Not supplied
+
+Thaumic Upholstry (TU) Version 1.0
+Website: Not supplied
+
+Thaumic Exploration (ThaumicExploration) Version Pre 0.6.0b
+An add-on for Thaumcraft 4.1, adding a variety of content.
+Credits: Special thanks to ThaumLite, SoundLogic, and the guys at #minecraftforge IRC
+Website: https://github.com/Flaxbeard/Thaumic_Exploration
+
+Thermal Dynamics (ThermalDynamics) Version 1.1.0
+Thermal meets Dynamic - provides options for transporting items, fluids, and Redstone Flux!
+Credits: Team CoFH
+Authors: Team CoFH
+Website: http://www.teamcofh.com
+
+TorchTools (TorchTools) Version 1.2.0.26
+Place torches with a right click of your pick
+Credits: Thanks Tinkers Construct for the idea.
+Website: https://github.com/DoubleDoorDevelopment/TorchTools
+
+Translocator (Translocator) Version 1.1.1.14
+Translocates stuff!
+  
+Credits: MouseCop - Textures
+
+§bSupporters:
+Authors: ChickenBones
+Website: http://www.minecraftforum.net/topic/909223
+
+Traveller's Gear (TravellersGear) Version 1.16.5
+RPG Inventories! Armorstands! Cross-Mod Interaction! Woohoo!
+Credits: Azanor for Baubles, SlimeKnights for parts of the networking code, joshie for Mariculture, #kihira on Esper.net for coding advise and general shenanigans
+Authors: BluSunrize
+Website: http://minecraft.curseforge.com/mc-mods/224440-travellers-gear
+
+Villager's Nose (VillagersNose) Version 1.3c
+NOT SERIOUS!
+Authors: StarSheep
+Website: Not supplied
+
+Waila Harvestability (WailaHarvestability) Version 1.1.2
+An add-on for Waila that adds information about the harvestability of what you are looking at
+Authors: squeek
+Website: Not supplied
+
+WAILA Plugins (wailaplugins) Version MC1.7.10-0.1.2-21
+WAILA plugins for various mods, such as Blood Magic, Magical Crops, and Forestry!
+Credits: Pokefenn - for writing 'I'm Looking At Blood' which was ported to this mod, and all the mod authors who made these wonderful mods I support.
+Authors: tterrag
+Website: http://ci.tterrag.com
+
+Warp Book (warpbook) Version 2.0.36
+A multipurpose teleporting mod that's high in fibre and low in calories
+Credits: panicnot42 (Developer), FalcoTheGreat (French translation), sb023612 (Chinese translation), FreddyHair (Italian translation), puyo061 (Korean translation), krwminer (Testing)
+Authors: panicnot42
+Website: http://www.minecraftforum.net/topic/2266303-164-warp-book-mod/
+
+What Are We Looking At (wawla) Version 1.3.1
+Greatly expands upon the functionality of Waila by providing many new forms of information along with bridging support between Waila and many other popular minecraft mods.
+Credits: Maintained by Darkhax.
+Website: http://www.darkhax.net/wawla.html
+
+Witchery (witchery) Version 1.7.10-0.24.1
+Bringing witchcraft and nature magic to Minecraft: cauldrons, broomsticks, ritual circles, magical brews, a bit of necromancy and voodoo for good measure; all topped off with a fetching pointy hat. Oh, and watch out for the demons...
+Credits: For credits and licenses, see: https://sites.google.com/site/witcherymod/credits
+Authors: Emoniph
+Website: http://sites.google.com/site/witcherymod/
+
+Witching Gadgets (WitchingGadgets) Version 1.1.9
+It's a kind of magic
+Credits: The Forge guys, Azanor for Thaucmraft, SlimeKnights for the packet system, 'The Skype Guys' and #kihira on IRC for inspiration and criticism
+Website: Not supplied
+
+WR-CBE Core (WR-CBE|Core) Version 1.4.1.9
+Wireless Redstone ChickenBones Edition Core API
+
+§bSupporters: Vizerei
+Authors: ChickenBones
+Website: http://www.minecraftforum.net/topic/909223
+
+WR-CBE Addons (WR-CBE|Addons) Version 1.4.1.9
+Various wireless gadgets to play with!
+
+§bSupporters: Vizerei
+Authors: ChickenBones
+Website: http://www.minecraftforum.net/topic/909223
+
+WR-CBE Logic (WR-CBE|Logic) Version 1.4.1.9
+Transmitter, Receiver and Jammer blocks. Integrated with ForgeMultipart for covers and other cool stuff
+
+§bSupporters: Vizerei
+Authors: ChickenBones
+Website: http://www.minecraftforum.net/topic/909223
+
+Minecraft Multipart Plugin (McMultipart) Version 1.2.0.345
+Provides multipart versions of some vanilla blocks like torches and buttons.
+Website: https://github.com/Chicken-Bones/ForgeMultipart
+
+Another One Bites The Dust (aobd) Version 2.8.3
+AOBD dynamically finds all the ores and ingots added by any mod and makes them processable in IC2, EnderIO, RailCraft, Mekanism, Thermal Expansion, Thaumcraft, UltraTech, Factorization, RandomAdditions, Gany's Nether, Modular Systems, Hydraulicraft, Tinker's Construct, SimpleOreGrinder, RotaryCraft, Electrical Age, Aura Cascade, Flaxbeard's Steampower Mod, Engineer's Toolbox, and Immersive Engineering machines!
+Credits: BluSunrize for his rainbow cluster texture and Inap for convincing BluSunrize to let me use it ;D, also Dylan4Ever for the old dust textures
+Authors: ganymedes01
+Website: Not supplied
+
+Dense Ores (denseores) Version 1.6.2
+Adds new ore variants to the game
+Website: Not supplied
+
+Modpack Info (mpinfo) Version 1.0.1
+Provides modpack info via log files and in-game commands
+Credits: Inspired by Vazkii's ModLister (http://www.minecraftforum.net/topic/1828188-mod-lister-lists-the-mods-you-are-running/)
+Authors: OreCruncher
+Website: https://github.com/OreCruncher/ModpackInfo/wiki
+
+Forge Microblocks (ForgeMicroblock) Version 1.2.0.345
+Microblocks for Forge Multipart.
+Website: https://github.com/Chicken-Bones/ForgeMultipart
+
+=============================================================================
+OS: Windows 7 (amd64)
+Java: Oracle Corporation 1.8.0_40 (http://java.oracle.com/)
+=============================================================================
